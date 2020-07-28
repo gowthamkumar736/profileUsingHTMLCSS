@@ -1,0 +1,193 @@
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+  font-family: sans-serif;
+  margin: 0;
+}
+
+
+
+h1 {
+  color: #66BFBF;
+  font-size: 40px;
+}
+.about:hover{
+  color: red;
+}
+
+.work:hover{
+  color: red;
+}
+
+.notes:hover{
+  color: red;
+}
+
+h3{
+  color: #11999E;
+  text-align: left;
+}
+
+.spr{
+  color: #11999E;
+  text-align: right;
+}
+
+.dp {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  right : 280px;
+}
+.dp:hover
+{
+  background-color: #6da2ed;
+}
+
+.about{
+  position: relative;
+ left : 260px;
+ bottom : 20px;
+ text-decoration: none;
+ color: Blue;
+ }
+.work{
+  position: relative;
+ left : 330px;
+ bottom : 20px;
+ text-decoration: none;
+ color: Blue;
+}
+.notes {
+  position: relative;
+ left : 400px;
+ bottom : 20px;
+ text-decoration: none;
+ color: Blue;
+}
+
+.Underline {
+  text-decoration: underline;
+}
+
+.header{
+  margin: auto;
+  padding: 30px;
+}
+.cloud1 {
+  position: relative;
+  top: 22px;
+  left: 320px;
+  height: 70px;
+  width: 150px;
+}
+
+.pikachu {
+  position: absolute;
+  top: 190px;
+  left: 570px;
+  height: 80px;
+  width: 90px;
+}
+
+
+
+.cloud2 {
+  display: block;
+  position: relative;
+  left : 150px;
+  height: 70px;
+  width: 150px;
+}
+.mountain {
+  height: 395px;
+  width: 800px;
+  position: relative;
+  left : 50px;
+}
+
+.skill-1{
+  margin :  50px auto;
+  width: 75%;
+}
+
+.angular{
+  float: left;
+  height: 115px;
+  width: 120px;
+  margin-right: 30px;
+}
+
+.angularpara{
+  text-align: left;
+}
+
+.skill-2{
+  margin :  100px auto;
+  width: 75%;
+}
+
+.spring{
+  float: right;
+  height: 115px;
+  width: 120px;
+  margin-left: 30px;
+}
+
+.springpara{
+  text-align: left;
+}
+
+.skill-3{
+  margin :  50px auto;
+  width: 75%;
+}
+
+.j2ee{
+  float: left;
+  height: 115px;
+  width: 120px;
+  margin-right: 30px;
+}
+
+.j2eepara{
+  text-align: left;
+}
+
+.line2{
+  border-style: solid none none;
+  border-color: #010812;
+  width: 10%;
+  height: 5px;
+}
+
+.line1 {
+  margin: 50px auto;
+  width: 5%;
+  border-color: #e6e8eb;
+  border-width: 15px;
+  border-style: dotted none none;
+}
+
+.bottom {
+  padding: 50px 0 10px ;
+  background-color: #66BFBF;
+}
+
+.facebook{
+  text-decoration: none;
+  color: #11999E;
+  margin: 10px;
+}
+
+.facebook:hover{
+  color: red;
+}
+
+.contact{
+  padding: 25px;
+}
+
+.lastname{
+  color: #EAF6F6;
+}
